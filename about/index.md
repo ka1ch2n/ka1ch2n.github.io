@@ -9,9 +9,12 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
+<figure class="half">
+	<img src="/images/filename.jpg" alt="image">
+	<figcaption> </figcaption>
+</figure>
 
-## This is all about Kaichen:
-
-* ........
+* PhD candidate in composite materials 
+* Pretend to be a coder
 
 [^1]: Example: *domain.com/category-name/post-title*
