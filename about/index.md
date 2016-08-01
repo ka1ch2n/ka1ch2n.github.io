@@ -13,8 +13,8 @@ image:
 	<figcaption> </figcaption>
 </figure>
 
-### PhD candidate in composite materials 
+#### PhD candidate in composite materials 
 
-### Pretend to be a **coder**
+#### Pretend to be a **coder**
 
 [^1]: Example: *domain.com/category-name/post-title*
