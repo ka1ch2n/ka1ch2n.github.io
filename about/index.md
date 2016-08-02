@@ -17,6 +17,6 @@ image:
 
 *  Pretend to be a **coder**
 
-*  Email:  < kaichen.wang@postgrad.manchester.ac.uk >
+*  Email:  <kaichen.wang@postgrad.manchester.ac.uk>
 
 [^1]: Example: *domain.com/category-name/post-title*
