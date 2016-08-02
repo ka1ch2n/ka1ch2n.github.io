@@ -33,8 +33,9 @@ as [Wang Xiaobo](https://en.wikipedia.org/wiki/Wang_Xiaobo) said.
 
 However, none of these are the reason why I start to write a blog.
 
-
 At the moment, I am forming a research paper regarding the academic work I’ve done. It’s more difficult than I thought to write properly especially in English. The idea of writing a technical blog in English just popped up in my mind. Here are my reasons to start a blog.
+
+
 
 - **To make me think clearer**   
 
@@ -50,12 +51,16 @@ So
 became my motto.
 
 
+
+
 - **To help me write better English**   
 
 I can easily write fluent，or even in a humorous writing style in my mother tongue. But using English is a bit challenging. 
 As I need to write decent stuff, it seems inevitable to improve my English writing skills. 
-I remember in Stephen King’s epic book, On Writing, he discusses how once he didn’t write for several weeks due to an accident, and how when he started to write again, his words weren’t flowing well.
+I remember in [Stephen King](https://en.wikipedia.org/wiki/Stephen_King)’s epic book, On Writing, he discusses how once he didn’t write for several weeks due to an accident, and how when he started to write again, his words weren’t flowing well.
 I think it is so true that writing mastery comes with constant practice.
+
+
 
 
 - **To learn and share**  
