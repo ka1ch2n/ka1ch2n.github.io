@@ -43,7 +43,8 @@ Optionally: Install SublimeText Package Control (if you didn’t do that alrea
 Install [LaTeXTools](https://github.com/SublimeText/LaTeXTools) plugin. With [SublimeText Package Control](https://packagecontrol.io/) installed: click `Command+SHIFT+P` on Mac.
 
 #### Step 2
-Install **Skim**
+Install **Skim** 
+
  
 In Skim: go to Preferences->Sync and set ‘Preset’ to SublimeText.
 
@@ -56,6 +57,8 @@ After that you just need to build LaTeX document in SublimeText with Command+B (
 If you have multiple documents add ` %!TEX root = <master file name>`  at the beginning of every file.
 
 *Enjoy your **LaTeX** on **Mac**!* 
+
+PS: A **brief** but **useful** introduction to **LaTeX**  [The Not So Short Introduction to LATEX 2ε](https://tobi.oetiker.ch/lshort/lshort.pdf)
 
 
 
