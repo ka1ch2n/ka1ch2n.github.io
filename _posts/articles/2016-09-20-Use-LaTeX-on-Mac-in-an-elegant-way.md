@@ -45,7 +45,7 @@ Install [LaTeXTools](https://github.com/SublimeText/LaTeXTools) plugin. With 
 #### Step 2
 Install **Skim** 
 
- 
+
 In Skim: go to Preferences->Sync and set ‘Preset’ to SublimeText.
 
 <img src="/images/skim.png" alt="image">
@@ -58,7 +58,11 @@ If you have multiple documents add ` %!TEX root = <master file name>`  at the 
 
 *Enjoy your **LaTeX** on **Mac**!* 
 
-PS: A **brief** but **useful** introduction to **LaTeX**  [The Not So Short Introduction to LATEX 2ε](https://tobi.oetiker.ch/lshort/lshort.pdf)
+
+
+PS: A **brief** but **useful** introduction to **LaTeX** 
+
+[The Not So Short Introduction to LATEX 2ε](https://tobi.oetiker.ch/lshort/lshort.pdf)
 
 
 
