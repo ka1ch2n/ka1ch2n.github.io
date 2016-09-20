@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Use LaTex on Mac in an elegant way
-excerpt: "Install MacTeX + Sublime Text + Skim on Mac
-."
+excerpt: "Install MacTeX + Sublime Text + Skim on Mac."
 modified: 2016-09-020T14:17:25-04:00
 categories: articles
 tags: [Mac, LaTex, Sublime Text]
@@ -39,10 +38,15 @@ Install SublimeText
 
 Optionally: Install SublimeText Package Control (if you didn’t do that already) – it will be easier to install LaTeXTools package.
 
-Install LaTeXTools plugin. With SublimeText Package Control installed: click `Command+SHIFT+P` on Mac.
+Install [LaTeXTools](https://github.com/SublimeText/LaTeXTools) plugin. With [SublimeText Package Control](https://packagecontrol.io/) installed: click `Command+SHIFT+P` on Mac.
 
-#### Step 2: Install Skim 
+#### Step 2
+Install Skim 
 In Skim: go to Preferences->Sync and set ‘Preset’ to SublimeText.
+<figure class=
+	<img src="/images/skim.png" alt="image">
+	<figcaption> </figcaption>
+</figure>
 
 
 After that you just need to build LaTeX document in SublimeText with Command+B (Mac). Open the generated `.pdf` in Skim, then every time you rebuild it in SublimeText – it will be refreshed automatically.
