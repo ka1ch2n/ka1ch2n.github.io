@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Use LaTex on Mac in an elegant way
+title: Use LaTeX on Mac in an elegant way
 excerpt: "Install MacTeX + Sublime Text + Skim on Mac."
 modified: 2016-09-020T14:17:25-04:00
 categories: articles
@@ -20,6 +20,7 @@ Recently I am sick of using [Word for Mac](https://products.office.com/en-us/mac
 I work most of the time on MacBook. The most popular LaTeX distribution for Mac is [MacTeX](https://tug.org/mactex/) (for Windows: [MiKTeX](http://miktex.org/) or [TeXlive](https://www.tug.org/texlive/)). 
 
 Once I had this installed I needed an editor. [TeXworks](https://www.tug.org/texworks/) is okay, but it is not a very decent environment and it is hard to manage documents with more than one `.tex` file either. So the idea of using [Sublime Text](https://www.sublimetext.com/) (my favourite editor) just popped into my head. As it says on the website, Sublime Text is 
+
 >   "The text editor you'll fall in love with." 
 
 It has a neat environment with a huge number of plugins, and most of all, fast.
@@ -45,7 +46,7 @@ Install [LaTeXTools](https://github.com/SublimeText/LaTeXTools) plugin. With 
 Install Skim 
 In Skim: go to Preferences->Sync and set ‘Preset’ to SublimeText.
 
-	<img src="/images/skim.png" alt="image">
+<img src="/images/skim.png" alt="image">
 	
 
 
