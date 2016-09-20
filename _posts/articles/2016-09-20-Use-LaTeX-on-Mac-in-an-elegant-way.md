@@ -33,17 +33,18 @@ All the tools are settled, let’s get them work on Mac.
 ### LaTeX + SublimeText + Skim setup
 
 #### Step 0
-Install LaTeX distribution (for Mac OS X: MacTeX, for Windows: MiKTeX or TeXlive).
+Install **LaTeX** distribution (for Mac OS X: MacTeX, for Windows: MiKTeX or TeXlive).
 
 #### Step 1
-Install SublimeText
+Install **SublimeText**
 
 Optionally: Install SublimeText Package Control (if you didn’t do that already) – it will be easier to install LaTeXTools package.
 
 Install [LaTeXTools](https://github.com/SublimeText/LaTeXTools) plugin. With [SublimeText Package Control](https://packagecontrol.io/) installed: click `Command+SHIFT+P` on Mac.
 
 #### Step 2
-Install Skim 
+Install **Skim**
+ 
 In Skim: go to Preferences->Sync and set ‘Preset’ to SublimeText.
 
 <img src="/images/skim.png" alt="image">
