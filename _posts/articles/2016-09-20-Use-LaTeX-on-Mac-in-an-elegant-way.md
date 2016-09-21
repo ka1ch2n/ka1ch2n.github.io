@@ -2,7 +2,7 @@
 layout: post
 title: Use LaTeX on Mac in an elegant way
 excerpt: "Install MacTeX + Sublime Text + Skim on Mac."
-modified: 2016-09-020T14:17:25-04:00
+modified: 2016-09-20T14:17:25-04:00
 categories: articles
 tags: [Mac, LaTex, Sublime Text]
 image:
@@ -25,7 +25,7 @@ Once I had this installed I needed an editor. [TeXworks](https://www.tug.org/te
 
 It has a neat environment with a huge number of plugins, and most of all, fast.
 
-[Skim](http://skim-app.sourceforge.net/)is an application, which detects .pdf updates automatically. Moreover, [Skim](http://skim-app.sourceforge.net/) can be integrated with [Sublime Text](https://www.sublimetext.com/) in such a way that it checks for updates every time, you perform build in [Sublime Text](https://www.sublimetext.com/).
+[Skim](http://skim-app.sourceforge.net/) is an application, which detects .pdf updates automatically. Moreover, [Skim](http://skim-app.sourceforge.net/) can be integrated with [Sublime Text](https://www.sublimetext.com/) in such a way that it checks for updates every time, you perform build in [Sublime Text](https://www.sublimetext.com/).
 
 All the tools are settled, let’s get them work on Mac.
 
