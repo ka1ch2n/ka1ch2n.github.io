@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Replace data manipulation in Excel with Python
-excerpt: "use Pivot table in Pandas"
+excerpt: "Use Pivot table in Pandas"
 modified: 2016-09-23T14:17:25-04:00
 categories: articles
 tags: [Excel, Pivot Table, Pandas, Python]
