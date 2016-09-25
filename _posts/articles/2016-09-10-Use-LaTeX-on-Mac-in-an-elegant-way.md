@@ -2,7 +2,7 @@
 layout: post
 title: Use LaTeX on Mac in an elegant way
 excerpt: "Install MacTeX + Sublime Text + Skim on Mac."
-modified: 2016-09-20T14:17:25-04:00
+modified: 2016-09-10T14:17:25-04:00
 categories: articles
 tags: [Mac, LaTex, Sublime Text]
 image:
