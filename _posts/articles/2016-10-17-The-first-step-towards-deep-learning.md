@@ -13,9 +13,16 @@ comments: true
 share: true
 ---
 
-Recently, as planning to do some project related to deep learning (specifically image classification, detection etc.) in the near future, I spent some time dig into this field. Based on the previous understanding of linear algebra, calculus, statistics and a few knowledge about machine learning, I had a tiny bit of conceptual understanding of deep learning, though I was completely unable to transfer any of my knowledge into code. This is what I wanted to change.### Why Keras? 
-The framework I started with is [Keras](https://keras.io/). Keras is an actual deep learning framework: a well-designed API that allows you use to build deep learning models by clipping together high-level building blocks. And since Keras runs on top of [TensorFlow](https://www.tensorflow.org/) or [Theano](https://github.com/Theano), there is no performance cost to using Keras compared to using the one of these lower-level frameworks.
-If you are familiar with [Numpy](www.numpy.org/) and [Scikit-Learn](scikit-learn.org/), then a fair comparison would be to say that Theano and TensorFlow are closer to Numpy, while Keras is closer to Scikit-Learn. However the comparison isn't perfect, since Keras is more flexible than Scikit-Learn: it allows you to define your own machine learning models, rather than just use pre-defined models.As for [Torch](torch.ch/), Keras has a significantly larger community than Torch, we can benefit from the extensive Python ecosystem in our workflow.### Build a neural network with Keras 
+
+Recently, as planning to do some project related to deep learning (specifically image classification, detection etc.) in the near future, I spent some time dig into this field. 
+
+Based on the previous understanding of linear algebra, calculus, statistics and a few knowledge about machine learning, I had a tiny bit of conceptual understanding of deep learning, though I was completely unable to transfer any of my knowledge into code.
+
+This is what I wanted to change.### Why Keras? 
+The framework I started with is [Keras](https://keras.io/). Keras is an **actual** deep learning framework: a well-designed API that allows you use to build deep learning models by clipping together high-level building blocks. And since Keras runs on top of [TensorFlow](https://www.tensorflow.org/) or [Theano](https://github.com/Theano) , there is no performance cost to using Keras compared to using the one of these lower-level frameworks.
+If you are familiar with [Numpy](www.numpy.org/) and [Scikit-Learn](scikit-learn.org/), then a fair comparison would be to say that Theano and TensorFlow are closer to Numpy, while Keras is closer to Scikit-Learn. 
+
+However the comparison isn't perfect, since Keras is ***more flexible*** than Scikit-Learn: it allows you to define your own machine learning models, rather than just use pre-defined models.As for [Torch](torch.ch/), Keras has a significantly larger community than Torch, we can benefit from the extensive **Python ecosystem** in our workflow.### Build a neural network with Keras 
 Load dataset.
 
 ```python
@@ -112,7 +119,7 @@ Train the model.
 model.fit(X_train, Y_train,
           batch_size=128, nb_epoch=4,
           verbose=1,
-          validation_data=(X_test, Y_test))  #,callbacks=[remote])
+          validation_data=(X_test, Y_test))  
 ```
 
     Train on 60000 samples, validate on 10000 samples
