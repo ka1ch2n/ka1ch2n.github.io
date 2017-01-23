@@ -30,9 +30,9 @@ Let's say if we have a 2 * 2 matrix.
 
 The geometric essence of the singular value decomposition for 2 * 2 matrices: for any 2 * 2 matrix, we may find an orthogonal grid that is transformed into another orthogonal grid.
 
-We will express this fact using vectors: with an appropriate choice of orthogonal unit vectors v_1 and v_2, the vectors Mv_1 and Mv_2 are orthogonal. 
+We will express this fact using vectors: with an appropriate choice of orthogonal unit vectors v1 and v2, the vectors Mv1 and Mv2 are orthogonal. 
 
-We will use u1 and u2 to denote unit vectors in the direction of Mv1 and Mv2. The lengths of Mv1 and Mv2 -- denoted by σ1 and σ2 --describe the amount that the grid is stretched in those particular directions. These numbers are called the singular values of M. 
+We will use u1 and u2 to denote unit vectors in the direction of Mv1 and Mv2. The lengths of Mv1 and Mv2 - - denoted by σ1 and σ2 - - describe the amount that the grid is stretched in those particular directions. These numbers are called the singular values of M. 
 
 Therefore, 
 
@@ -68,12 +68,12 @@ usually expressed by
 
 Singular value decompositions can be used to represent data efficiently. Suppose, for instance, that we wish to transmit the following image, which consists of an array of 15 * 25 black or white pixels.
 
-<img src="/images/svd/1.gif" alt="image">
+<center><img src="/images/svd/1.gif" alt="image"></center>
 
 We will represent the image as a 15 * 25 matrix in which each entry is either a 0, representing a black pixel, or 1, representing white. As such, there are 375 entries in the matrix.
 
 
-<img src="/images/svd/2.gif" alt="image">
+<center><img src="/images/svd/2.gif" alt="image"></center>
 
 if we perform a singular value decomposition on M, we find there are only three non-zero singular values.
 
@@ -98,7 +98,7 @@ This means that we have three vectors vi, each of which has 15 entries, three ve
 Typically speaking, the large singular values point to where the interesting information is. For example, imagine we have used a scanner to enter this image into our computer. However, our scanner introduces some imperfections in the image.
 
 
- <img src="/images/svd/3.gif" alt="image">
+ <center><img src="/images/svd/3.gif" alt="image"></center>
 
 
 We may proceed in the same way: represent the data using a 15 * 25 matrix and perform a singular value decomposition. We find the following singular values:
@@ -128,13 +128,14 @@ Clearly, the first three singular values are the most important so we will assum
 
 This leads to the following improved image.
 
- <img src="/images/svd/4.gif" alt="image">
+<center> <img src="/images/svd/4.gif" alt="image"> </center>
+ 
 
 
 
 **References:**
 
-**Dan Kalman**, A Singularly Valuable Decomposition: The SVD of a Matrix, The College Mathematics Journal 27 (1996), 2-23. 
+ **Dan Kalman**, *A Singularly Valuable Decomposition: The SVD of a Matrix, The College Mathematics Journal 27 (1996), 2-23.*
 
 
 
