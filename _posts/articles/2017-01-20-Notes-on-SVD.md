@@ -126,10 +126,8 @@ Clearly, the first three singular values are the most important so we will assum
 \\(M \approx u_1 \sigma_1 v_1^T + u_2 \sigma_2 v_2^T  + u_3 \sigma_3 v_3^t  \\)
 
 
-This leads to the following improved image.
+This leads to an improved image.
 
-<center> <img src="/images/svd/4.gif" alt="image"> </center>
- 
 
 
 
